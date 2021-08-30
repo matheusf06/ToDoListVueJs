@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bgColor {
+    background-color: #9FC4E1;
+}
+
+.center {
+    text-align: center;
+}
+
+.card {
+    margin: 20px;
+}
+
+li {
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-list {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 45px;
+}
+
+.text-completed {
+    text-decoration: line-through;
+}
